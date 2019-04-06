@@ -14,5 +14,7 @@ The min and max variables can use bytes, KB, MB, etc so you don't have to conver
 
 
 Example: PS> FileSize -dir C:\Users\Owner\Downloads -min 100MB -max 5GB
+
 Example: PS> FileSize C:\Users\Owner\Downloads 100MB 5GB
+
 Example: PS> FileSize -min 0
